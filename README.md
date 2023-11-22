@@ -1,1 +1,1 @@
-# odin-recipes
+Html foundations capstone project on recipes
