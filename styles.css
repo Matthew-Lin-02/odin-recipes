@@ -1,0 +1,15 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    color:brown;
+}
+
+h2{
+    background-color: azure;
+}
+
+ul, ol{
+    background-color: beige;
+}
