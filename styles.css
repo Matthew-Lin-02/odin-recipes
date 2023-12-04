@@ -3,13 +3,22 @@
 }
 
 h1{
+    text-align: center;
     color:brown;
 }
 
+img{
+    display: block;
+    margin:0 auto;
+}
 h2{
     background-color: azure;
 }
 
 ul, ol{
     background-color: beige;
+}
+.centered{
+    width: 500px;
+    margin: 0 auto;
 }
